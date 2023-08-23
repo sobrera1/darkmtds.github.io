@@ -1,7 +1,14 @@
-@media screen and (max-width: 660px){
+@media screen and (max-width: 760px){
     header{
         flex-direction: column;
     }
-	main{
+    main{
         flex-direction: column;
+    }
+    li{
+	margin-right: 15px
+    }
+    img{
+	width: 300px
+    }
 }
