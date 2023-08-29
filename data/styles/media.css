@@ -6,9 +6,9 @@
         flex-direction: column;
     }
     li{
-	margin-right: 5px
+	margin-right: 3px
     }
     #tio_patinhas{
-	width: 100px
+	width: 250px
     }
 }
